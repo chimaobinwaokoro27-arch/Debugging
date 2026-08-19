@@ -4,6 +4,7 @@ import Question3 from "./componet/question 3";
 import Question4 from "./componet/question4";
 import Question5 from "./componet/question5";
 import Question6 from "./componet/question6";
+import Question7 from "./componet/question7";
 function App() {
   return (
     <div>
@@ -13,6 +14,7 @@ function App() {
       <Question4 />
       <Question5 />
       <Question6 />
+      <Question7 />
     </div>
   );
 }
